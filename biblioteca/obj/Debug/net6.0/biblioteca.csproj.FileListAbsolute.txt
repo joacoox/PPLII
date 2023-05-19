@@ -1,0 +1,12 @@
+D:\proyectos visual\biblioteca\bin\Debug\net6.0\biblioteca.deps.json
+D:\proyectos visual\biblioteca\bin\Debug\net6.0\biblioteca.dll
+D:\proyectos visual\biblioteca\bin\Debug\net6.0\biblioteca.pdb
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.csproj.AssemblyReference.cache
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.AssemblyInfoInputs.cache
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.AssemblyInfo.cs
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.csproj.CoreCompileInputs.cache
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.dll
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\refint\biblioteca.dll
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\biblioteca.pdb
+D:\proyectos visual\biblioteca\obj\Debug\net6.0\ref\biblioteca.dll
